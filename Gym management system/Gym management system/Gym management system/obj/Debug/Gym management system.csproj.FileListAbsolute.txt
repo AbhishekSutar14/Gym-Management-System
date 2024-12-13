@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\bin\Debug\Gym management system.exe.config
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\bin\Debug\Gym management system.exe
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\bin\Debug\Gym management system.pdb
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym management system.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym_management_system.Form1.resources
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym_management_system.Properties.Resources.resources
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym management system.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym management system.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym management system.exe
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym management system.pdb
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym_management_system.NewMember.resources
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym_management_system.NewStaff.resources
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym_management_system.Equipment.resources
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym_management_system.ViewEquipment.resources
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym_management_system.searchMember.resources
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym_management_system.DeleteMember.resources
+C:\Users\admin\Desktop\Gym management system\Gym management system\Gym management system\obj\Debug\Gym_management_system.Login.resources
